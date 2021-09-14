@@ -24,15 +24,16 @@
 
 <p align='center'>
   
-<img src= "https://github-readme-stats.vercel.app/api?username=raphaelpassos&show_icons=true&theme=merko" />
-  
+   <img src= "https://github-readme-stats.vercel.app/api?username=raphaelpassos&show_icons=true&theme=merko" />
+
 </p>
 
-<p align='center'>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
   
-<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelpassos" />
+<img align="center" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelpassos" />
   
-</p>
+</a>
 
 <p align='center'>
   <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
