@@ -22,10 +22,13 @@
   About Me
 </h1>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphaelpassos&show_icons=true&theme=merko)
+<p align='center'>
+  
+<img src= "https://github-readme-stats.vercel.app/api?username=raphaelpassos&show_icons=true&theme=merko" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelpassos)
-
+  
+</p>
 
 <p align='center'>
   <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
