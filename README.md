@@ -2,13 +2,16 @@
   Welcome, I'm Raphael!  :v:
 </h1>
 
-
-<a target="_blank" href="https:www.linkedin.com/in/raphael-passos-de-magalhães">
-   <img align="center" alt="Gmail" width="70px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https:www.linkedin.com/in/raphael-passos-de-magalhães" />
+<p align='center'>
+  
+<a href="https:www.linkedin.com/in/raphael-passos-de-magalhães">
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a target="_blank" href="mailto:raphaelpassosmagalhaes@gmail.com">
-   <img align="center" alt="Gmail" width="70px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&email=raphaelpassosmagalhaes@gmail.com" />
+<a href="mailto:raphaelpassosmagalhaes@gmail.com">
+   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+  
+</p>
   
 
 <h3 align='center'>
