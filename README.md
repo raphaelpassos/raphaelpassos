@@ -22,9 +22,9 @@
   About Me
 </h1>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphaelpassos&show_icons=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphaelpassos&show_icons=true&theme=merko)
 
-[![Center Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelpassos)](https://github.com/raphaelpassos/raphaelpassos/blob/main/README.md)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelpassos)
 
 
 <p align='center'>
