@@ -25,8 +25,12 @@
 <p align='center'>
   
 <img src= "https://github-readme-stats.vercel.app/api?username=raphaelpassos&show_icons=true&theme=merko" />
+  
+</p>
 
-<img src= "https://github-readme-stats.vercel.app/api?username=raphaelpassos&layout=compact)" />
+<p align='center'>
+  
+<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelpassos&layout=compact)" />
   
 </p>
 
