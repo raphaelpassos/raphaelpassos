@@ -1,9 +1,5 @@
 <h1 align='center'>
-  Welcome! :v:
-</h1>
-
-<h1 align='center'>
-  I'm Raphael! 
+  Welcome, I'm Raphael!  :v:
 </h1>
 
 <p align='center'>
@@ -24,8 +20,9 @@
 
 
 ## About Me
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelpassos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align='center'>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelpassos" />
+</p>
 
 <p align='center'>
   <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
