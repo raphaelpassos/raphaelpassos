@@ -3,11 +3,11 @@
 </h1>
 
 
-<a target="_blank" href="link:https:www.linkedin.com/in/raphael-passos-de-magalhães">
-  <img align="left" alt="Gmail" width="22px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https:www.linkedin.com/in/raphael-passos-de-magalhães" />
+<a target="_blank" href="https:www.linkedin.com/in/raphael-passos-de-magalhães">
+  <img align="center" alt="Gmail" width="50px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https:www.linkedin.com/in/raphael-passos-de-magalhães" />
 </a>
 <a target="_blank" href="mailto:raphaelpassosmagalhaes@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&email=raphaelpassosmagalhaes@gmail.com" />
+  <img align="center" alt="Gmail" width="50px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&email=raphaelpassosmagalhaes@gmail.com" />
 </a>
   
 
