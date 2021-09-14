@@ -7,9 +7,10 @@
   <a href="https:www.linkedin.com/in/raphael-passos-de-magalhães">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https:www.linkedin.com/in/raphael-passos-de-magalhães) 
- 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raphaelpassosmagalhaes@gmail.com)](mailto:raphaelpassosmagalhaes@gmail.com)
+
+  <a href="raphaelpassosmagalhaes@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raphaelpassosmagalhaes@gmail.com" />
+  </a>
   
 </p>
 
