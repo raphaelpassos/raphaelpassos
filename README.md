@@ -26,7 +26,7 @@
   
 <img src= "https://github-readme-stats.vercel.app/api?username=raphaelpassos&show_icons=true&theme=merko" />
 
-<img src= "https://github-readme-stats.vercel.app/api?/?username=raphaelpassos)" />
+<img src= "https://github-readme-stats.vercel.app/api?username=raphaelpassos&layout=compact)" />
   
 </p>
 
