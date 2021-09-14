@@ -2,7 +2,6 @@
   Welcome, I'm Raphael!  :v:
 </h1>
 
-<p align='center'>
   
   <a href="https:www.linkedin.com/in/raphael-passos-de-magalhães">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -12,7 +11,6 @@
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raphaelpassosmagalhaes@gmail.com" />
   </a>
   
-</p>
 
 <h3 align='center'>
   <ul>
