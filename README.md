@@ -3,12 +3,12 @@
 </h1>
 
   
-  <a href="https:www.linkedin.com/in/raphael-passos-de-magalhães">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a>
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https:www.linkedin.com/in/raphael-passos-de-magalhães" />
   </a>
 
-  <a href="raphaelpassosmagalhaes@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raphaelpassosmagalhaes@gmail.com" />
+  <a>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&email=raphaelpassosmagalhaes@gmail.com" />
   </a>
   
 
