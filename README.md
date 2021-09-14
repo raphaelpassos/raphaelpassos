@@ -33,9 +33,9 @@
 </p>
 
 <p align='center'>
-  
-   <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelpassos&theme=dracula" />
-  
+  <a href="https://github.com/USERNAME/github-readme-stats">
+    <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelpassos&theme=dracula" />
+  </a>
 </p>
 
 <p align='center'>
@@ -47,4 +47,3 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
-![Snake animation](https://github.com/raphaelpassos/raphaelpassos/blob/output/github-contribution-grid-snake.svg)
