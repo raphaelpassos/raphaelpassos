@@ -32,9 +32,7 @@
 </p>
 
 <p align='center'>
-  <a href="https://github.com/raphaelpassos/github-readme-stats">
-    <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelpassos&theme=dracula" />
-  </a>
+   <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelpassos&show_icons&theme=dracula" />
 </p>
 
 <p align='center'>
