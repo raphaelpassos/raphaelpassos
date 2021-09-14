@@ -3,11 +3,11 @@
 </h1>
 
   
-  <a>
+  <a href="https:www.linkedin.com/in/raphael-passos-de-magalhães" alt="Linkedin" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https:www.linkedin.com/in/raphael-passos-de-magalhães" />
   </a>
 
-  <a>
+  <a href="raphaelpassosmagalhaes@gmail.com" alt="Gmail" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&email=raphaelpassosmagalhaes@gmail.com" />
   </a>
   
