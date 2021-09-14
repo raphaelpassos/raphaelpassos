@@ -15,9 +15,11 @@
 </p>
 
 <h3 align='center'>
-  *Developer :computer:
-  *Looking for new challenges :muscle:
-  *Team work :rose:
+  <ul>
+    <li>Developer :computer:</li>
+    <li>Looking for new challenges :muscle:</li>
+    <li>Team work :rose:</li>
+  </ul>
 </h3>
 
 
