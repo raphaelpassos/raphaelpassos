@@ -18,11 +18,11 @@
   </ul>
 </h3>
 
+<h1 align='center'>
+  About Me
+</h1>
 
-## About Me
-<p align='center'>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelpassos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</p>
 
 <p align='center'>
   <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
