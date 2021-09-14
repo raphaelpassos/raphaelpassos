@@ -29,11 +29,11 @@
 </p>
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<p align='center'>
   
-<img align="center" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelpassos" />
+   <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelpassos" />
   
-</a>
+</p>
 
 <p align='center'>
   <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
