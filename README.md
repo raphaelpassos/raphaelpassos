@@ -22,7 +22,7 @@
   About Me
 </h1>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelpassos)](https://github.com/raphaelpassos/github-readme-stats)
+[![Center Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelpassos)](https://github.com/raphaelpassos/github-readme-stats)
 
 
 <p align='center'>
