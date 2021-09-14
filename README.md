@@ -26,12 +26,9 @@
   About Me
 </h1>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raphaelpassos&repo=github-readme-stats)](https://github.com/raphaelpassos/github-readme-stats)
 
 <p align='center'>
-  
-   <img src= "https://github-readme-stats.vercel.app/api?username=raphaelpassos&show_icons=true&theme=merko" />
-
+  <img src= "https://github-readme-stats.vercel.app/api?username=raphaelpassos&show_icons=true&theme=merko" />
 </p>
 
 <p align='center'>
