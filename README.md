@@ -29,7 +29,7 @@
    <img src= "https://github-readme-stats.vercel.app/api?username=raphaelpassos&show_icons=true&theme=merko" />
 
 </p>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelpassos&layout=compact)](https://github.com/raphaelpassos/github-readme-stats)
 
 <p align='center'>
   
