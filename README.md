@@ -23,7 +23,7 @@
 </h1>
 
 <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelpassos&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelpassos&layout=compact (https://github.com/raphaelpassos/github-readme-stats)" />
 </p>
 
 <p align='center'>
