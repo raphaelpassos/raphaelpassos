@@ -2,7 +2,8 @@
   Welcome, I'm Raphael!  :v:
 </h1>
 
-  
+<p align='center'>
+
   <a href="https:www.linkedin.com/in/raphael-passos-de-magalhães" alt="Linkedin" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https:www.linkedin.com/in/raphael-passos-de-magalhães" />
   </a>
@@ -10,6 +11,7 @@
   <a href="raphaelpassosmagalhaes@gmail.com" alt="Gmail" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&email=raphaelpassosmagalhaes@gmail.com" />
   </a>
+</p>
   
 
 <h3 align='center'>
@@ -29,7 +31,6 @@
    <img src= "https://github-readme-stats.vercel.app/api?username=raphaelpassos&show_icons=true&theme=merko" />
 
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelpassos&layout=compact)](https://github.com/raphaelpassos/github-readme-stats)
 
 <p align='center'>
   
