@@ -21,7 +21,7 @@
 
 ## About Me
 <p align='center'>
-  https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelpassos
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelpassos&layout=compact)](https://github.com/raphaelpassos/raphaelpassos/blob/main/README.md)
 </p>
 
 <p align='center'>
