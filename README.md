@@ -36,7 +36,7 @@
 </p>
 
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raphaelpassos&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raphaelpassos&repo=github-raphaelpassos" />
 </p>
 
 <p align='center'>
