@@ -29,8 +29,10 @@
 
 <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=raphaelpassos&show_icons=true&theme=merko" />
+</p>  
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelpassos&theme=dracula" />
+<p align='center'>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelpassos&theme=dracula&hide=rubyonrails,html,css,javascript,typescript,nodejs" />
 </p>
 
 <p align='center'>
