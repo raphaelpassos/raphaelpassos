@@ -34,9 +34,8 @@
 <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelpassos&theme=dracula" />
 </p>
-
 <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=raphaelpassos" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=raphaelpassos" />
 </p>
 
 <p align='center'>
