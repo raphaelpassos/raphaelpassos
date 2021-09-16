@@ -32,11 +32,8 @@
 </p>  
 
 <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelpassos&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelpassos&theme=dracula&repo=github-readme-stats" />
 </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelpassos)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 <p align='center'>
