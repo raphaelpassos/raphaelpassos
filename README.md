@@ -1,8 +1,8 @@
-<h1 align='center'>
+<h1>
   Welcome, I'm Raphael!  :v:
 </h1>
 
-<p align='center'>
+<p>
   
 <a href="https://www.linkedin.com/in/raphael-passos-de-magalhães">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -14,7 +14,7 @@
 </p>
   
 
-<h3 align='center'>
+<h3>
   <ul>
     <li>Developer :computer:</li>
     <li>Looking for new challenges :muscle:</li>
@@ -22,21 +22,21 @@
   </ul>
 </h3>
 
-<h1 align='center'>
+<h1>
   About Me
 </h1>
 
 
-<p align='center'>
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=raphaelpassos&show_icons=true&theme=merko" />
 </p>  
 
-<p align='center'>
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raphaelpassos&theme=dracula" />
 </p>
 
 
-<p align='center'>
+<p>
   <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
