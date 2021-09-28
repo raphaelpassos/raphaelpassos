@@ -14,7 +14,7 @@
 </p>
 
 <h3>
-  <ul>
+  <ul> 
     <li>Developer :computer:</li>
     <li>Looking for new challenges :muscle:</li>
     <li>:heart: Team work</li>
