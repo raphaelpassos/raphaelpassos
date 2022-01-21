@@ -13,7 +13,7 @@
    
 </p>    
     
-<h3>
+<h3> 
   <ul>
     <li>Developer :computer:</li>
     <li>Looking for new challenges :muscle:</li>
