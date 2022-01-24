@@ -1,5 +1,5 @@
 <h1>
-  Welcome, I'm Raphael!  :v:  
+  Welcome, I'm Raphael!  :v:   
 </h1>
      
 <p> 
