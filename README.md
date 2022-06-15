@@ -17,7 +17,7 @@
   <ul>  
     <li>Developer :computer:</li> 
     <li>Looking for new challenges :muscle:</li>
-    <li>:heart: Team work</li>  
+    <li>:heart: Team work</li>   
   </ul>
 </h3>
   
