@@ -30,7 +30,7 @@
 </p>  
  
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raphaelpassos&langs_count=8&theme=synthwave" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raphaelpassos&langs_count=8&theme=gruvbox" />
 </p> 
        
   
