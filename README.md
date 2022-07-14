@@ -4,7 +4,7 @@
      
 <p> 
   
-<a href="https://www.linkedin.com/in/raphael-passos-de-magalhães">
+<a href="https://www.linkedin.com/in/raphael-passos-magalhaes">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a> 
 <a href="mailto:raphaelpassosmagalhaes@gmail.com">
@@ -26,7 +26,7 @@
 </h1> 
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=raphaelpassos&show_icons=true&theme=merko&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api?username=raphaelpassos&show_icons=true&langs_count=8" />
 </p>  
  
 <p>
