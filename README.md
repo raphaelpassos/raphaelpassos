@@ -26,7 +26,7 @@
 </h1> 
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=raphaelpassos&show_icons=true&theme=merko" />
+  <img src="https://github-readme-stats.vercel.app/api?username=raphaelpassos&show_icons=true&theme=merko&langs_count=8" />
 </p>  
  
 <p>
@@ -42,6 +42,8 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p> 
  
   
