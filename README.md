@@ -26,11 +26,11 @@
 </h1> 
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=raphaelpassos" />
+  <img src="https://github-readme-stats.vercel.app/api?username=raphaelpassos&showIcon:true" />
 </p>  
  
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raphaelpassos" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raphaelpassos&showIcon:true" />
 </p> 
        
   
