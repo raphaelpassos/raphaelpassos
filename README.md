@@ -26,7 +26,7 @@
 </h1> 
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=raphaelpassos&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=raphaelpassos" />
 </p>  
  
 <p>
